@@ -51,3 +51,7 @@ Their frontend renders components with React.js.
 
 Apps developed with Dash are rendered in the web browser and can be deployed to servers.
 This also means that Dash applications are inherently cross-platform and mobile-ready.
+
+.. note::
+
+    source of the above text is: https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a

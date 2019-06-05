@@ -20,11 +20,9 @@ Once built, search suggestions should show when user starts typing in the search
 * In case, no results are found, notify the user.
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Table of Contents
+   :glob:
 
-    about-rtd
-    frameworks
+   *
 
 
 ----
