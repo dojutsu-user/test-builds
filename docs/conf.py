@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+master_doc = 'index'
+
 # Default settings
 project = 'Test Builds'
 extensions = [
