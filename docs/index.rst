@@ -21,6 +21,7 @@ Once built, search suggestions should show when user starts typing in the search
 
 .. toctree::
    :glob:
+   :caption: Table of Contents
 
    *
 
