@@ -6,7 +6,7 @@ master_doc = 'index'
 project = 'Test Builds'
 extensions = [
     'sphinx_autorun',
-    'sphinx_es_suggest.extension'
+    'sphinx_search.extension'
 ]
 
 latex_engine = 'xelatex'  # allow us to build Unicode chars
